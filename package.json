@@ -1,0 +1,10 @@
+{
+  "name": "bat-signal",
+  "version": "1.0.0",
+  "description": "Activate the Bat Signal in your console to summon Batman",
+  "author": "Vicktor Moberg",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["console", "log", "signal", "test"],
+  "license": "MIT"
+}
