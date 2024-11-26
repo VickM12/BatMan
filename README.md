@@ -5,7 +5,7 @@ A simple way to summon Batman to your console to help by activating the Bat Sign
 Install the package via npm:
 
 ```bash
-npm install bat-signal
+npm install the-bat-signal
 ```
 
 ## Usage

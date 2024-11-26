@@ -1,11 +1,11 @@
 {
   "name": "the-bat-signal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Activate the Bat Signal in your console to summon Batman",
   "author": "Vicktor Moberg",
   "homepage": "https://github.com/VickM12/BatMannpm",
   "main": "index.js",
   "scripts": {},
-  "keywords": ["console", "log", "signal", "test"],
+  "keywords": ["console", "log", "signal", "test", "batman"],
   "license": "MIT"
 }
